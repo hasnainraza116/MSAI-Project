@@ -5,6 +5,7 @@ import requests
 API_URL = "http://127.0.0.1:8000/predict"
 
 st.title("Insurance Premium Category Predictor")
+st.markdown("MSAI Hasnain Raza (011) and Rabia Aziz (27):")
 st.markdown("Enter your details below:")
 
 # Input fields
