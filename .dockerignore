@@ -1,0 +1,16 @@
+# Python caches & VENV
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# MLflow local tracking folders (not needed for serving)
+mlruns/
+mlartifacts/
+mlflow.db
+
+# OS / editor junk
+.DS_Store
+.vscode/
