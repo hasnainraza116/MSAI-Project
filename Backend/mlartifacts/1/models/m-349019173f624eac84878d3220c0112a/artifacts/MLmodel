@@ -1,0 +1,32 @@
+artifact_path: mlflow-artifacts:/1/models/m-349019173f624eac84878d3220c0112a/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+is_signature_from_type_hint: false
+mlflow_version: 3.8.1
+model_id: m-349019173f624eac84878d3220c0112a
+model_size_bytes: 346314
+model_uuid: m-349019173f624eac84878d3220c0112a
+prompts: null
+run_id: 24f2589f694a40dba400f44ccb100b96
+signature:
+  inputs: '[{"type": "double", "name": "bmi", "required": true}, {"type": "string",
+    "name": "age_group", "required": true}, {"type": "string", "name": "lifestyle_risk",
+    "required": true}, {"type": "long", "name": "city_tier", "required": true}, {"type":
+    "double", "name": "income_lpa", "required": true}, {"type": "string", "name":
+    "occupation", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "object", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-01-15 08:40:59.712331'

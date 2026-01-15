@@ -6,7 +6,7 @@ import pickle
 import pandas as pd
 
 # import the ml model
-with open('model.pkl', 'rb') as f:
+with open('/Users/hasnain/Desktop/MSAI Project/ML_project2/Backend/model.pkl', 'rb') as f:
     model = pickle.load(f)
 
 app = FastAPI()
