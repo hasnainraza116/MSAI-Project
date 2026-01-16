@@ -1,0 +1,53 @@
+commit f84632e96659d567ab9f255b0c9b81566dc013fd
+Author: hasnain raza <hasnainraza116@gmail.com>
+Date:   Thu Jan 15 15:17:03 2026 +0100
+
+    Adding requirments.txt file
+
+commit fd8dac96f826998b1fbfc8d61791b426a7d20a9d
+Author: hasnain raza <hasnainraza116@gmail.com>
+Date:   Thu Jan 15 10:40:57 2026 +0100
+
+    After fixing accuracy metrics
+
+commit f35c98eafba460d52b3feb06a25cc5f1ca20016d
+Author: hasnain raza <hasnainraza116@gmail.com>
+Date:   Sun Jan 11 11:47:29 2026 +0100
+
+    Change streamlit tittle add information
+
+commit d2fb613fd4454abe94b38d5bf88ba468baed14f1
+Author: hasnain raza <hasnainraza116@gmail.com>
+Date:   Sun Jan 11 11:44:09 2026 +0100
+
+    Fix folder structure and port numner
+
+commit 4ab959497a67d210db4d48db3a8736a4b8ea0fcf
+Author: hasnain raza <hasnainraza116@gmail.com>
+Date:   Wed Jan 7 06:31:51 2026 +0100
+
+    Rev 1 Mlfow Fastapi and Streamlit
+
+commit 3cdfe5b59e83a4df0e97596ff1242f9d52153cdd
+Author: hasnain raza <hasnainraza116@gmail.com>
+Date:   Tue Jan 6 23:18:03 2026 +0100
+
+    Recoverd after mess up
+
+commit e2c0e9aabf8e3a77f7c870dfd3ba489f134db6a3
+Author: hasnain raza <hasnainraza116@gmail.com>
+Date:   Tue Jan 6 22:34:48 2026 +0100
+
+    After Adding EDA
+
+commit ecf03e236b36ddfa1003c5b4626d011c3fddd64d
+Author: hasnain raza <hasnainraza116@gmail.com>
+Date:   Tue Jan 6 09:05:51 2026 +0100
+
+    Train the model again and create new pickle file
+
+commit 3472e98e166e9eb696d104c2da57165123be3765
+Author: hasnain raza <hasnainraza116@gmail.com>
+Date:   Thu Jan 1 15:34:23 2026 +0300
+
+    Initial commit: AI project code and requirements.txt
